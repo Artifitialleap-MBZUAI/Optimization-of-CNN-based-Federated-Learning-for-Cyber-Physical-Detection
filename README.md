@@ -13,5 +13,6 @@ Moayad Aloqaily, Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI
 E-mail: maloqaily@ieee.org
 
 Bassem Ouni, Technology Innovation Institute, Abu Dhabi, UAE.
+E-mail: bassem.ouni@tii.ae
 
 Maher Hamdi, George Washington University, Washington, USA.
